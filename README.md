@@ -1,1 +1,0 @@
-# my_txt_project
